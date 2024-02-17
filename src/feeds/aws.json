@@ -2,9 +2,6 @@
   "category": "AWS",
   "items": [
     "https://aws.amazon.com/blogs/architecture/feed",
-    "https://aws.amazon.com/blogs/devops/feed",
-    "https://www.youtube.com/feeds/videos.xml?user=AmazonWebServices",
-    "https://www.youtube.com/feeds/videos.xml?user=AmazonWebServicesJP",
-    "https://www.youtube.com/feeds/videos.xml?user=AWSwebinars"
+    "https://aws.amazon.com/blogs/devops/feed"
   ]
 }
